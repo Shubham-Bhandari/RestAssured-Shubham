@@ -1,0 +1,106 @@
+{
+  "providerSlug": "jne-pondok-ungu",
+  "providerId": "51",
+  "internalAWB": [
+    "SM5137462034",
+    "SM5137462035"
+  ],
+  "shippingHub": "ACOM_SG_HALIM",
+  "acommerceId": "ADAFFO20211105000001235",
+  "orderType": "SHIPPING",
+  "clientName": "Adidas SG",
+  "orderInfo": {
+    "paymentType": "COD",
+    "currency": "IDR",
+    "referenceId": "AID3080861235",
+    "grossTotal": 200,
+    "declaredValue": "34",
+    "insurance": false,
+    "weight": "1.92",
+    "totalPackage": 2,
+    "packageInfo": [
+      {
+        "packageDepth": 11.12,
+        "packageWeight": 15.05,
+        "packageTrackingId": "SM5137462035",
+        "packageHeight": 12,
+        "packageWidth": 13
+      }
+    ],
+    "orderSender": {
+      "subDistrict": "123",
+      "postalCode": "159956",
+      "address2": "53 Ang Mo Kio Avenue 3",
+      "city": "Mandalay Road",
+      "province": "Burma's road",
+      "district": "11",
+      "address1": "Blk 35 Mandalay Road",
+      "email": "asgags@gmail.com",
+      "phone": "8882739202",
+      "country": "Singapore",
+      "addressee": "Mr Rohan Carriapa"
+    },
+    "orderShipment": {
+      "subDistrict": "Buangkok",
+      "postalCode": "546080",
+      "address2": "Blk 145 Lorong 2 Toa Payoh",
+      "city": "kaki bukit",
+      "province": "Sengkang",
+      "district": "Northeast",
+      "address1": "Soo 16 Sandilands Road Singapore",
+      "email": "abceeeee@yahoo.com",
+      "phone": "4441212332",
+      "country": "Singapore",
+      "addressee": "Mr Nilanjan"
+    },
+    "orderCleansedShipment": {
+      "subDistrict": "Baraya",
+      "postalCode": "569933",
+      "address2": "MAKASSAR Gaddong Bontoala",
+      "city": "Kota Makassar",
+      "province": "Sulawesi Selatan",
+      "district": "Bontoala",
+      "address1": "JL. PELITA MARGA MAS NO. C5",
+      "email": null,
+      "phone": "012345679999",
+      "country": "Singapore",
+      "addressee": "aaaa  bbbbbb"
+    },
+    "orderItems": [
+      {
+        "itemName": null,
+        "itemId": "SS48415653",
+        "itemSku": "4064055216232",
+        "itemProduct": null,
+        "itemHomogenizeCode": null,
+        "itemDescription": "4064055216232 - Tas Ransel Essentials 3-Stripes Response Multicolor/Black 500",
+        "itemUnitPrice": "450000.0",
+        "itemQuantity": 1
+      },
+      {
+        "itemName": null,
+        "itemId": "SS48415654",
+        "itemSku": "4060518438067",
+        "itemProduct": null,
+        "itemHomogenizeCode": null,
+        "itemDescription": "4060518438067 - Continental 80 Shoes White/White/Green 620",
+        "itemUnitPrice": "1900000.0",
+        "itemQuantity": 1
+      },
+      {
+        "itemName": null,
+        "itemId": "SS48415655",
+        "itemSku": "4064055224121",
+        "itemProduct": null,
+        "itemHomogenizeCode": null,
+        "itemDescription": "4064055224121 - Classic Badge of Sport Backpack Grey/Black/Black 500",
+        "itemUnitPrice": "400000.0",
+        "itemQuantity": 1
+      }
+    ],
+    "specialServices": null,
+    "shipping_type": "SAME_DAY",
+    "orderNote": "",
+    "shipId": "FFO20211105000000107571235"
+  }
+}
